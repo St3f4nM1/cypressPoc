@@ -1,0 +1,16 @@
+{
+  "name": "cypress framework for wizz air webapp",
+  "version": "1.0.0",
+  "description": "Poc with Cypress",
+  "main": "index.js",
+  "reporter": "mochawesome",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "stefan mitkovski",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.0.0"
+  }
+}
